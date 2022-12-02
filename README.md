@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @Oguzhanakcasoy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
+//// ---- This profile is under construction  ----\\\
+ <img src="https://media.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif">
+
+  ### Hi there, I'm Oguzhan. :blush:
+
+  ## Computer Engineer | Software Dev.
+
+### Reach out to me
 
 <!---
 Oguzhanakcasoy/Oguzhanakcasoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
