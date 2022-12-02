@@ -3,11 +3,7 @@
 
 //// ---- This profile is under construction  ----\\\
 
-<img src="https://media.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif">
-
-  ### Hi there, I'm Oguzhan. :blush:
-
-  ## Computer Engineer | Software Dev.
+![Anurag's Github stats(https://github-readme-stas.vercel.app/api?username=oguzhanakcasoy&show_icons=true&theme=radical)
 
 
 
