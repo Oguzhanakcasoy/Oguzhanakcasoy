@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @Oguzhanakcasoy 👋
-//// ---- This profile is under construction  ----\\\
+
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=oguzhanakcasoy">
 
